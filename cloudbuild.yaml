@@ -1,4 +1,3 @@
-##yaml
 steps:
 - name: 'docker'
   args: ['build','-t','gcr.io/$PROJECT_ID/gcpdevops','.']
