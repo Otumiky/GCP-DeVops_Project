@@ -1,4 +1,5 @@
 ## Prerequisites
+![Architecture Diagram](path/to/diagram.png)
 
 Before setting up the pipeline, ensure you have the following:
 # A simple Docker flask App
