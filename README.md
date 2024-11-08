@@ -5,7 +5,7 @@ Before setting up the pipeline, ensure you have the following:
 # A simple Docker flask App
 - This app is written in in python
 1. **Google Cloud Project**: Create or use an existing Google Cloud Project.
-2. **Source Repository**: Ensure you have a repository on **Google Cloud Source Repositories**, **GitHub**, or **Bitbucket**.
+2. **Source Repository**: Ensure you have a repository on **Google Cloud Source Repositories**, **GitHub**.
 3. **Google Cloud SDK**: [Install Google Cloud SDK](https://cloud.google.com/sdk/docs/install).
 4. **Permissions**: Ensure you have the appropriate IAM roles:
    - `Cloud Build Editor`
